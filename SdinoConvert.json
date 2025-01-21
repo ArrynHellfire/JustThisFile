@@ -1,0 +1,8 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn",
+      "toClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn"
+    }
+  ]
+}
