@@ -26,7 +26,7 @@
     },
     {
       "fromClass": "/AAHelicoprion/Dinos/HelicoprionAA_Character_BP.HelicoprionAA_Character_BP_C",
-      "toClass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP"
+      "toClass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C"
     }
   ]
 }
